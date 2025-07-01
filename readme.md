@@ -23,8 +23,7 @@ Cursando Tecnologia da Informação pela UNIVESP
 
  *Este portfólio é constantemente atualizado conforme novas habilidades e projetos forem desenvolvidos.*
 
-```
-
+---
 ## Autor
 
 Feito com 💜 por Shayare 🐈
