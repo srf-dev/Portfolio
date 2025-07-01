@@ -317,8 +317,14 @@ body{
 }
 
 .project:hover {
-    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15); /* Sombra suave no hover */
+    box-shadow: 0px 8px 20px rgba(171, 170, 170, 0.15); /* Sombra suave no hover */
     transform: translateY(-5px); /* Elevação no hover */
+
+    border: 2px solid var(--color-white);
+}
+
+.project:hover .project__content h3, .project:hover .project__content p, .project:hover .project__content span{
+    color: var(--color-white);
 }
 
 .project img{
@@ -563,4 +569,16 @@ footer{
     border-radius: 100%;
 
     font-size: 1.4rem;
+
+    transition: transform 0.3s ease;
+}
+
+.footer-contact__container .contact a:hover{
+    border: 2px solid var(--color-pink);
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 20px rgb(234, 76, 137, 0.2);
+}
+
+.footer-contact__container .contact a:hover i{
+    color: var(--color-pink);
 }
