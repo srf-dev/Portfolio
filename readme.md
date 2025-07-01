@@ -1,6 +1,6 @@
 # Portfólio Pessoal - Shayare Ferreira
 
-Este é um projeto de portfólio profissional desenvolvido em **HTML**, **CSS** e **JavaScript**, com foco em apresentar habilidades, projetos e experiências na área de tecnologia.
+Este é um projeto de portfólio profissional desenvolvido com foco em apresentar habilidades, projetos e experiências na área de tecnologia.
 
 
 ## Como Executar
