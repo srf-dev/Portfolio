@@ -5,9 +5,17 @@ Este é um projeto de portfólio profissional desenvolvido com foco em apresenta
 
 ## Como Executar
 
-1. Clone ou baixe este repositório.
-2. Certifique-se de que todos os arquivos estão na mesma pasta (ou mantenha a estrutura de diretórios indicada).
-3. Abra o arquivo `index.html` em qualquer navegador moderno.
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/srf-dev/Portfolio.git
+   ```
+
+2. Para rodar o projeto localmente
+- **Live Server (VS Code)**: clique com o botão direito no `index.html` e escolha "Open with Live Server".
+- **Node.js (npx)**:
+  ```bash
+  npx http-server
 
 
 ## Sobre Mim
