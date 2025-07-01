@@ -15,9 +15,9 @@ Este é um projeto de portfólio profissional desenvolvido em **HTML**, **CSS** 
 **Shayare Ferreira**
 Técnica em Análise e Desenvolvimento de Sistemas
 Cursando Tecnologia da Informação pela UNIVESP
-📍 São Paulo - SP
-📫 Contato: [shayare.r.ferr@gmail.com](mailto:shayare.r.ferr@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/shayare-ferreira/)
+- São Paulo - SP
+- Contato: [shayare.r.ferr@gmail.com](mailto:shayare.r.ferr@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shayare-ferreira/)
 
 ---
 
